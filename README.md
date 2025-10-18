@@ -1,2 +1,2 @@
 # myarchhyprland-rice
-Just try to configure custom hyprland in arch linux
+New to linux, and just try to configure custom hyprland in arch linux
